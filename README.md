@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ifeoluwa Agbogun</h1>
 <h3 align="center">A frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [BeYou]([beyou.vercel.app](https://be-you-six.vercel.app/))
+- 🔭 I’m currently working on [beyou.vercel.app](https://be-you-six.vercel.app/))
 
 - 👨‍💻 All of my projects are available at [https://ifeportfolio.app/](https://ifeoluwa-portfolio-five.vercel.app/)
 
-- 📝 I regularly write articles on [https://substack.com/@ifeoluwa001?utm_source=user-menu](https://substack.com/@ifeoluwa001?utm_source=user-menu)
+- 📝 I regularly write articles on [https://substack.com/@ifeoluwa001](https://substack.com/@ifeoluwa001?utm_source=user-menu)
 
 - 📫 How to reach me **paul.agbogun@gmail.com**
 
