@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [beyou.vercel.app](https://be-you-six.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://ifeportfolio.app/](https://ifeoluwa-portfolio-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ifeoluwa.tech/](https://ifeoluwa.tech/)
 
 - 📝 I regularly write articles on [https://substack.com/@ifeoluwa001](https://substack.com/@ifeoluwa001?utm_source=user-menu)
 
