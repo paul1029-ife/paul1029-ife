@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/paulagbogun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="paulagbogun" height="30" width="40" /></a>
-<a href="https://dev.to/paul_agbogun_b5fea3fb9f66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paul_agbogun_b5fea3fb9f66" height="30" width="40" /></a>
+<a href="https://dev.to/ifeoluwa001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paul_agbogun_b5fea3fb9f66" height="30" width="40" /></a>
 <a href="https://twitter.com/theactual001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theactual001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paul-agbogun01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-agbogun01" height="30" width="40" /></a>
 </p>
