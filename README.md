@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ifeoluwa.tech](https://ifeoluwa.tech)
 
-- 📝 I regularly write articles on [https://substack.com/@ifeoluwa001?utm_source=user-menu](https://substack.com/@ifeoluwa001?utm_source=user-menu)
+- 📝 I regularly write articles on [https://ifeoluwa.tech/blogs](https://ifeoluwa.tech/blogs)
 
 - 📫 How to reach me **paul.agbogun@gmail.com**
 
