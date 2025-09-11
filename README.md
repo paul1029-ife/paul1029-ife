@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **paul.agbogun@gmail.com**
 
-- 📄 Know about my experiences [https://ifeoluwa.tech/resume-paul.pdf](https://ifeoluwa.tech)
+- 📄 Know about my experiences [https://ifeoluwa.tech/resume-paul.pdf](https://ifeoluwa.tech/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
