@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifeoluwa Agbogun</h1>
-<h3 align="center">A software developer (frontend) from Nigeria</h3>
+<h3 align="center">A software developer from Nigeria</h3>
 
 - 🔭 I’m currently working on [BeYou](https://beyou.vercel.app/)
 
