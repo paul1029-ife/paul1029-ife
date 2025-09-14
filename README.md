@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifeoluwa Agbogun</h1>
 <h3 align="center">A software developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [BeYou](https://beyou.vercel.app/)
+- 🔭 I’m currently working on [BeYou](https://beyou.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://ifeoluwa.tech](https://ifeoluwa.tech)
 
